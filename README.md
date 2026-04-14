@@ -2,6 +2,8 @@
 
 A stylish macOS-inspired portfolio website built with React and Vite.
 
+**[Live Demo]((https://incomparable-tanuki-60bb2b.netlify.app/))**
+
 ## Features
 - Interactive macOS-style UI
 - Project showcase
